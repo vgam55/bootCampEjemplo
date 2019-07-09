@@ -5,3 +5,7 @@ h1{
 p{
 	color:blue;
 }
+
+p:second{
+	background-color: cyan;
+}
